@@ -1,0 +1,49 @@
+<div class="row-fluid info">
+	<div class="span6">
+		<div class="row-fluid">
+			<br>
+			<span class="text4">IIT-JEE</span>
+			<span class="text3">The admission to the undergraduate programmes at the IITs and ISMU, Dhanbad for the year 2013 will be based on a two-tier test.</span><br>
+			<span class="text6" align="left"><b>IIT-JEE (Mains)</b> </span>
+			<span class="text3" >
+				<li>Offline (Pen & Paper) - 7th April</li>
+				<li>Online - April 8th - April 25th</li>
+			</span><br>		
+			<span class="text6"><b>JEE (Advanced)</b></span>
+			<span class="text3">
+			<li>Date: June 2, 2013 (only offline)</li>
+			<br>
+			
+			<p>Only 1,50,000 of the top rankers in JEE(Main), which includes students from all categories( GE,OBC(NCL), SC and ST ) will be eligible to appear in JEE (Advanced).
+			
+			The JEE (Advanced)-2013 will have two objective type papers. Each paper will consist of Physics, Chemistry and Mathematics. Duration of each paper will be 3-hours. Question papers will be in both English and Hindi. Admissions to IITs will be based only on category wise All India Rank (AIR) in JEE (Advanced) subject to the condition that such candidates are in the top 20 percentile of successful candidates of their Boards in applicable categories.
+			</p>
+		</div>		
+	</div>
+	<div class="span6">
+		<div class="row-fluid">
+			<br>
+			<span class="text4">NEET</span>
+			<span class="text3">Single entrance exam for all medical aspirants in India.      </p>
+	    	<ul>
+	    	  <li>NEET is proposed to be conducted in on <strong>5th May 2013</strong> (Sunday). </li>
+	    	  <li>The application forms shall be available in <strong>2nd week of November 2012</strong>. </li>
+	    	  <li>A student will be able to apply offline or online, based on his/her convenience.    	  </li>
+	  	  </ul>
+	      <span class="text6"><b>Exam Pattern:  </b>  	  </span>
+	    	<p>Total Number of Questions: 180 Qs</p>
+	    	<ol>
+	    	  <li> Physics:       45 Qs</li>
+	    	  <li> Chemistry:  45 
+	    	    Qs </li>
+	    	  <li> Botany:        45 Qs </li>
+	    	  <li> Zoology:      45 Qs </li>
+	  	  </ol>
+	    	<p> Total Time: <strong>3 hours (180 Minutes) </strong><br>
+	    	  1/4th negative marking        </p>
+	    	<ul>
+	    	  <li>Exam Language/Medium: <strong>English and Hindi</strong></li>
+	  	  </ul>
+		</div>
+	</div>	
+  </div>

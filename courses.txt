@@ -1,0 +1,22 @@
+<br><br>
+<div class="row-fluid">
+		<div class="span4">
+			<div class="row-fluid">
+				<span class="text4">Admission Open:</span><br>
+			    <span class="text3">
+			    <li>Class XII : JEE/NEET Crash Course - 2013</li>
+			    <li>Class XI : JEE/NEET Crash - 2014</li>
+			    <li>VIII,IX & X : Foundation JEE/NEET</li>
+			    <li>NTSE,NSO,OLYMPIADS & KVPY</li>
+			</div>
+		</div>		
+		<div class="span8">
+			<br>		
+			<span class="text6">1yr Classroom Program</span>
+		    <span class="text3"><br>This is a intensive classroom training program for students currently in class XII or who have opted to prepare one more year after XII.</p><br>
+			<span class="text6">2yr Classroom Program</span><br>
+			<p>This is a best course for IIT-JEE preparation because of the longest time availability.The main focus of this course is to develop solid foundation of concepts &amp; fundamentals, and also to sharpen analytical thinking, reasoning and problem solving skills of the students, which is essential to succeed in competitive examination.This course begins immediately after the class 10th examination</p><br>
+			<span class="text6">Foundation Courses</span><br>
+			<p>These courses are designed to develop <em>(1)</em> Mathematical aptitude, <em>(2)</em> Scientific temperament, <em>(3)</em> Logical thinking,<em>(4)</em>Reasoning skills &amp; <em>(5)</em> Problem solving skills of the student and prepare them for future competitive examinations while they are studying in the school to take early lead in competitive scenario.</p>
+		</div>
+	</div>

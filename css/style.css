@@ -1,0 +1,375 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body {
+	height: 100%;
+}
+#content
+{
+	min-height: 100%;
+	margin-right:auto;
+	margin-left: auto;	
+	height: auto !important;
+	width:85%;
+	height: 100%;
+	margin: 0 auto -3em;
+}
+#logo
+{
+	float:left;
+	padding-top:0px;
+	padding-bottom:3px;
+	text-align:right;
+}
+.menu
+{
+	padding-top:25px;
+	padding-bottom: 0px;
+	text-align:right;
+	float: right;
+}
+.line-separator
+{
+	clear:both;
+	height:0.5px;
+	background:#878a8d;
+	-webkit-background:#878a8d;
+    -moz-background:#878a8d;
+    -o-background:#878a8d;
+	opacity:0.30;
+	width:100%;	
+}
+				.slides_container {				
+					height:300px;
+					width: auto;
+				}
+				.slides_container div {
+					height:300px;
+					display:block;
+					width: auto;
+				}
+				.slides_container img {
+					height:300px;
+					display:block;
+					width: auto;					
+         		}
+@media screen and (min-device-width: 900px) and (max-device-width: 1100px)
+			{
+				.slides_container {
+					width: 844px;
+				}
+				.slides_container div {
+					width:844px;
+				}
+				.slides_container img {
+					width:844px;
+           		}
+			}
+			@media screen and (min-device-width: 1100px) and (max-device-width: 1300px)
+			{
+				.slides_container {
+					width:1060px;
+				}
+				.slides_container div {
+					width:1060px;
+				}
+				.slides_container img {
+					width:1060px;
+           		}
+			}
+			@media screen and (max-device-width: 900px)
+			{
+				.slides_container {
+					width:653px;
+				}
+				.slides_container div {
+					width:653px;
+				}
+				.slides_container img {
+                width:653px;
+           		}
+			}
+			#slides
+			{
+				padding-top:10px;
+				padding-bottom:10px;
+			}
+.text1
+{
+	font-size:18px;
+	font-style:normal;
+	font-family:"Segoe UI";
+	color:#363e45;
+	display:inline-block;
+	width:100%;
+	text-align:center;
+}
+.text2
+{
+	font-size:16px;
+	font-family:"Segoe UI";
+	color:#363E45;
+}
+.text3
+{
+	font-size:14px;
+	font-family:"Segoe UI";
+	color:#363e45;
+}
+.text4
+{
+	font-size:18px;
+	font-family:"Segoe UI";
+	color:#000066;
+	padding-bottom:5px;
+	padding-top:5px;
+	display:block;
+	text-align:center;
+}
+.text5 , .address
+{
+	font-size:14px;
+	font-family:"Segoe UI";
+	font-style:oblique;
+	padding-bottom:5px;
+	padding-top:5px;
+	display:block;
+	text-align:center;
+}
+.address
+{
+	color:#363e45;
+	
+}
+.text6
+{
+	font-family:"Segoe UI";
+	background:url(../tmp/img/shl.png);
+	color:#444444;
+	font-size:16px;
+	font-family:"Segoe UI";
+}
+span
+{
+	display:block;
+}
+#col1
+{
+	float:left;
+	width:25%;
+	text-align:center;
+	padding-top:20px;
+}
+#col2
+{
+	float:right;
+	width:75%;
+	text-align:center;
+	padding-top:20px;
+}
+#col3
+{
+	float:left;
+	width:33.3%;
+	text-align:center;
+}
+#col4
+{
+	float:right;
+	width:66.7%;
+	text-align:center;
+}
+#col5
+{
+	float:left;
+	width:50%;
+	text-align:center;
+}
+#col6
+{
+	float:right;
+	width:50%;
+	text-align:center;
+}
+.contactform input,select,textarea
+{
+	width: 200px;
+}
+.contactno
+{
+	font-size:14px;
+	font-family:"Segoe UI";
+	display:block;
+	padding-left: 0px;
+}
+.faculty-pic
+{
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:5px;
+	padding-top:20px;
+	width: auto;
+	height: auto;
+}
+.cell-pic
+{
+	padding-right:5px;
+}
+#cell
+{
+	width:auto;
+	height:22px;
+}
+body
+{
+	background-image:url(../tmp/img/cream_dust.png);
+}
+#footer
+{
+	clear:both;
+	text-align:left;
+	font-family:"Segoe UI";
+	font-size:11px;
+	padding-left:80px;
+	padding-top: 30px;
+}
+#footer.a
+{
+	padding-left:0px;
+	font-family:"Segoe UI";	
+}
+a
+{
+	font-family:"Segoe UI";
+	font-size:14px;
+	color:#878a8d;
+	text-decoration:none;	
+}
+#email a
+{
+	padding-left:0px;
+	color:#363e45 ;
+}
+a:hover
+{
+	color:#363e45;
+	font-size:14px;
+}
+#menu a
+{
+	font-size:14px;
+	color:#878a8d;
+	text-decoration:none;
+}
+#menu a:hover
+{
+	color:#363e45;
+	font-size:14px;
+}
+.active
+{	
+	color: #000066;	
+}
+.home-text
+{
+	font-family:"Segoe UI";
+	font-size:16px;
+	color:#878a8d;
+	text-align:right;
+	padding-bottom:10px;
+}
+.home-text a
+{
+	padding-left:0px;
+	padding-right:-5px;
+}
+.homedata
+{
+	color:#878a8d;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.homeda
+{
+	color:#363e45;
+	display:inline;
+}
+.info-jee ,.courses-content ,.contactform , .formval
+{
+	float:left;
+	width:48%;
+	padding-top:20px;	
+}
+.courses-content
+{
+	width:40%;	
+}
+.info-neet , .courses-right , .address-info , .formfields
+{
+	float:right;	
+	width:48%;
+	padding-top:20px;
+}
+.courses-right
+{
+	width:60%;
+}
+.address-info , .contactform
+{
+	padding-top:0px;
+	width:30%;
+}
+.address
+{
+	text-align:left;
+	background:url(../tmp/img/shl.png);
+	padding-bottom:0px;
+}
+.navbar-inner
+{
+	background-color:transparent;
+	-webkit-background-color:transparent;
+    -moz-background-color:transparent;
+    -o-background-color:transparent;
+	background-image: none;
+	-webkit-background-image: none;
+	-o-background-image: none;
+	-moz-background-image: none;
+	border: none;
+	box-shadow: none;	
+	float: right;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.navbar .nav > li > a 
+{
+	padding: 10px 5px;
+}
+.navbar .nav > .active > a,.navbar .nav > .active > a:hover 
+{
+	background-image:none;
+	background-color: transparent;
+	border: none;
+	box-shadow: none;	 
+}
+.navbar .nav > li .active
+{
+	color: #000066;
+}
+.container {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.footer{
+  background-color:#F5F5F5;
+  border-top-color:#E5E5E5;
+  border-top-style:solid;
+  border-top-width:1px;  
+  text-align:center;
+  clear: both;
+  padding:20px 0;
+}
+.footer, .push
+{
+	height: 3em;
+}

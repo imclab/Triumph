@@ -1,0 +1,31 @@
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="js/slides.js"></script>
+<script>
+            $(function(){
+                $("#slides").slides({
+					generatePagination:false,
+					play: 5000
+				});
+            });
+</script>
+
+
+
+  <div id="slides">
+            <div class="slides_container">
+                <div>
+                    <img src="tmp/img/slideshow/home1.png">
+                </div>
+                <div>
+                    <img src="tmp/img/slideshow/home2.png">
+                </div>
+                <div>
+                    <img src="tmp/img/slideshow/home3.png">
+                </div>
+                <div>
+                    <img src="tmp/img/slideshow/home4.png">
+                </div>
+            </div>
+   </div>
+   
+   <script src="http://code.jquery.com/jquery-latest.min.js"></script>

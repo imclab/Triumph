@@ -1,0 +1,46 @@
+<div class="center-content">  
+  <div class="container-fluid">
+    <div class="row-fluid  visible-phone" style="padding-top:10px;">
+		<img src="tmp/img/slideshow/home1.png" style="width: inherit; height: 150px">
+	</div>
+	<div class="row-fluid hidden-phone">
+					 <div id="slides" style="width: 100%;">
+			            <div class="slides_container" style="width: 100%;">
+			                <div style="width: inherit">
+			                    <img src="tmp/img/slideshow/home1.png" >
+			                </div>
+			                <div style="width: 100%;">
+			                    <img src="tmp/img/slideshow/home2.png" >
+			                </div>
+			                <div style="width: 100%;">
+			                    <img src="tmp/img/slideshow/home3.png" >
+			                </div>
+			                <div style="width: 100%;">
+			                    <img src="tmp/img/slideshow/home4.png" >
+			                </div>
+			            </div>
+		   			</div>	   			
+	</div>
+  </div>
+  <div class="row-fluid">	   	
+  		<div class="row-fluid text2" align="right">Information:</div>
+  		<div class="row-fluid" align="right" style="padding-top: 10px;">
+  			<div class="span6">
+  			</div>
+  			<div class="span2 link">
+	  			<a href="http://jeemain.nic.in/jeemain2013/pdf/JEE_Main_bulletin_07_11.pdf">JEE Main<img src="tmp/img/pdf_icon.png" width="20" height="20" align="absmiddle"></a>
+		    </div>		    
+  			<div class="span2 link">
+  				<a href="http://www.jee.iitb.ac.in/images/IB_JEE_Adv_2013.pdf">JEE Advanced<img src="tmp/img/pdf_icon.png" align="absmiddle" width="20" height="20"></a>	      
+  			</div>
+  			<div class="span2">
+  				<a href="http://www.gradebook.in/wp-content/uploads/2012/09/NEET-UG-2013.pdf">NEET<img src="tmp/img/pdf_icon.png" width="20" height="20" align="absmiddle"></a>
+	      
+  			</div>	      	
+  		</div>
+  		<div class="row-fluid" align="right"><span class="homedata text2">Contact :</span><span class="home-text homeda">079-65491127 </span>		
+  		</div>		
+  </div>
+</div>  
+  <div class="push"></div>  
+</div>

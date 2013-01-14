@@ -1,0 +1,58 @@
+<br><br>
+      <div class="row-fluid">
+		<div class="span12">
+			<span class ="text1">Our highly qualified, dedicated and stable faculty team.</span>
+		</div>
+		<div class="row-fluid">
+			<div class="span3" align="center">
+				<img src="tmp/img/3.png" class="faculty-pic">
+				<div class="row-fluid">
+			        <span class="text4">
+				    	Dinesh Mittal
+			        </span>
+			        <span class="text5">
+			    	B.Tech - NIT Suratkal<span>(Faculty - Maths)</span>     
+			        </span>
+			        <span class="contactno">
+				    	<img src="tmp/img/cell.png" class="cell-pic">9227107639
+			        </span>
+			    </div>
+			</div>
+			<div class="span3" align="center">
+				<img src="tmp/img/1.png" class="faculty-pic">
+	            <span class="text4">
+	                Madan Dagar
+	            </span>
+	            <span class="text5">
+	            B.Tech - DAIICT<span>(Faculty - Physics)</span>     
+	            </span>
+	            <span class="contactno">
+	                <img src="tmp/img/cell.png" class="cell-pic">9377827504
+	            </span>
+			</div>
+			<div class="span3" align="center">
+				<img src="tmp/img/2.png" class="faculty-pic">
+                <span class="text4">
+                    Vinod Kumar
+                </span>
+                <span class="text5">
+                B.Tech - LMN IIT<span>(Faculty - Chemistry)</span>     
+                </span>
+                <span class="contactno">
+                    <img src="tmp/img/cell.png" class="cell-pic">9408573211
+                </span>
+			</div>
+			<div class="span3" align="center">
+				<img src="tmp/img/4.png" class="faculty-pic">
+                <span class="text4">
+                    Amit Pandey
+                </span>
+                <span class="text5">
+                B.Tech - IIT Kanpur<span>(Faculty - Physics & Maths)</span>     
+                </span>
+                <span class="contactno">
+                    <img src="tmp/img/cell.png" class="cell-pic">9427702946
+                </span>
+			</div>
+		</div>	
+	</div>
